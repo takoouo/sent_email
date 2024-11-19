@@ -1,11 +1,11 @@
 # sent_email
-內含檔案：
+##內含檔案：
   main.py
   sent.py
   111數位精進方案行動載具狀態.xlsx // 對Serial Number跟人名的檔案 => name_file
   20241118_載具清單_353301.xlsx // 檢查時間的檔案 => time_file
   contacts.csv // 通訊錄
-使用方式
+##使用方式
   1. 檢查是否包含以下欄位
   name_file => 領用人、備註
   time_file => 最後連線
